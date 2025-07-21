@@ -1,62 +1,47 @@
-# 🛡️ Project Title
+# 🔐 Cybersecurity Portfolio
 
-> Short description of the project (what it does, why it's useful)
-
----
-
-## 📌 Table of Contents
-- [Overview](#overview)
-- [Tools & Technologies](#tools--technologies)
-- [How I Did It](#how-i-did-it)
-- [Key Learnings](#key-learnings)
-- [Screenshots / Files](#screenshots--files)
-- [References](#references)
+Welcome to my cybersecurity portfolio! This space showcases my learning journey, hands-on projects, and security skills gained through the Google Cybersecurity Certificate program and beyond.
 
 ---
 
-## 📖 Overview
-This project is a sample **incident handler journal** documenting a simulated security event. I learned how to track, analyze, and report incidents using a professional format.
+## 👩‍💻 About Me
+
+**Nazreen Shanavaz**  
+Cybersecurity Enthusiast | Programmer (Python & C) | Curious Learner  
+
+I am passionate about defending privacy, ensuring fairness, and making the internet a safer place for everyone.  
+My key strengths include:
+
+- Programming in Python and C  
+- Attention to detail  
+- Strong curiosity and commitment to continuous learning
 
 ---
 
-## 🧰 Tools & Technologies
-- Operating System: `Linux / Windows`
-- Tools: `Wireshark`, `Nmap`, `Kali Linux`, etc.
-- Skills: `File permissions`, `SIEM usage`, `Network analysis`, etc.
+## 🛡️ Professional Statement
+
+I am a cybersecurity enthusiast with a strong foundation in programming (Python and C), a sharp attention to detail, and a deep curiosity to learn. I am passionate about defending privacy, promoting fairness, and making the internet a safer place for everyone.  
+
+What excites me most about cybersecurity is detecting threats and protecting people from harm in the digital world. I am committed to growing in this field and bringing my strengths to help organizations stay secure.  
+
+As someone who values continuous learning and responsible digital protection, I am eager to contribute to companies that prioritize cybersecurity and are looking for passionate, dedicated individuals.
 
 ---
 
-## 🛠️ How I Did It
-....
+## 📁 Portfolio Contents
 
-Example:
-1. Collected system logs from the target machine.
-2. Identified suspicious activity using Wireshark.
-3. Wrote an incident report in standard format.
-
----
-
-## 🧠 Key Learnings
-- Learned how to use `command-line filters` in Linux
-- Understood how to recognize `malicious packets`
-- Practiced following the `NIST incident response framework`
+- ✅ [Security Audit Report](./security-audit/)
+- ✅ [Linux File Permissions Practice](./linux-permissions/)
+- ✅ [SQL Filtering Example](./sql-filters/)
+- ✅ [Incident Handler's Journal](./incident-journal/)
+- ✅ [Resume](./resume/)
+- ✅ [More coming soon! 🚀]
 
 ---
 
-## 🖼️ Screenshots / Files
-You can add links to files or screenshots here.
+## 🌐 Connect With Me
 
-Example:
-- ![Screenshot](./screenshot.png)
-- [incident_report.txt](./incident_report.txt)
+- LinkedIn: [your-link-here]
+- Email: [your-email@example.com]
 
----
-
-## 📚 References
-If you followed a guide, tutorial, or online help, mention it here.
-
-Example:
-- [Google Cybersecurity Certificate Course](https://grow.google/certificates/cybersecurity/)
-- [Wireshark Documentation](https://www.wireshark.org/docs/)
-
----
+Thanks for visiting! Feel free to explore and reach out 🌟
