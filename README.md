@@ -38,7 +38,7 @@ As someone who values continuous learning and responsible digital protection, I 
 ---
 ## 📜 Certifications
 
-- 🎓 [Google Cybersecurity Certificate (Coursera)]([https://www.credly.com/badges/YOUR-CERTIFICATE-LINK](https://coursera.org/share/a901d93325daf575e97bbf23493f37b4))  
+- 🎓 [Google Cybersecurity Certificate (Coursera)](https://coursera.org/share/a901d93325daf575e97bbf23493f37b4)  
   Completed the professional certificate by Google, covering security foundations, incident response, SIEM tools, risk management, and more.
 ---
 
