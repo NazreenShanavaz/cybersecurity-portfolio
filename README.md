@@ -36,6 +36,17 @@ As someone who values continuous learning and responsible digital protection, I 
 - ✅ [More coming soon! 🚀]
 
 ---
+## 📁 TryHackMe rooms completed
+
+- ✅ Careers in Cyber
+- ✅ Defensive Security Intro
+- ✅ Offensive Security Intro
+- ✅ Pentesting Fundamentals
+- ✅ What is Networking?
+- ✅ Linux Fundamentals Part 1
+- ✅ [More coming soon! 🚀]
+
+---
 ## 📜 Certifications
 
 - 🎓 [Google Cybersecurity Certificate (Coursera)](https://coursera.org/share/a901d93325daf575e97bbf23493f37b4)  
