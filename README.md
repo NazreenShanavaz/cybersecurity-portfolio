@@ -30,18 +30,21 @@ As someone who values continuous learning and responsible digital protection, I 
 
 ## 📁 Portfolio Contents
 
-- ✅ [Security Audit Report](./security-audit/)
-- ✅ [Linux File Permissions Practice](./linux-permissions/)
-- ✅ [SQL Filtering Example](./sql-filters/)
-- ✅ [Incident Handler's Journal](./incident-journal/)
+- ✅ [Threat detection log files](./security-audit/)
+- ✅ [linux fundamentals](./linux-permissions/)
 - ✅ [Resume](./resume/)
 - ✅ [More coming soon! 🚀]
 
+---
+## 📜 Certifications
+
+- 🎓 [Google Cybersecurity Certificate (Coursera)](https://coursera.org/share/a901d93325daf575e97bbf23493f37b4)  
+  Completed the professional certificate by Google, covering security foundations, incident response, SIEM tools, risk management, and more.
 ---
 
 ## 🌐 Connect With Me
 
 - LinkedIn: [your-link-here]
-- Email: [your-email@example.com]
+- Email: nazreenshanavaz2004@gmail.com
 
 Thanks for visiting! Feel free to explore and reach out 🌟
