@@ -55,7 +55,7 @@ As someone who values continuous learning and responsible digital protection, I 
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [your-link-here]
+- LinkedIn: 
 - Email: nazreenshanavaz2004@gmail.com
 
 Thanks for visiting! Feel free to explore and reach out 🌟
